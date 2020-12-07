@@ -49,7 +49,7 @@
 
                             <div class="form-group row">
                                 <div class="col-12">
-                                    <input class="form-control" type="text"  name="NIK" id="NIK" required="" placeholder="NIKKK" value="">
+                                    <input class="form-control" type="text"  name="NIK" id="NIK" required="" placeholder="NIK Pendaftar" value="">
                                     <div class="invalid-feedback errorNIK"></div>
                                     @error('NIK')
                                         <div class="text-danger mt-2">
